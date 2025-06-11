@@ -34,7 +34,7 @@ title: Introduction to Law
   <p class="lead">A 3-sub-chapter digital guide built with Bootstrap</p>
 </header>
 
-<main class="container my-5">
+<main class="container my-5 container-fluid">
   <section>
     <h2>What is this site?</h2>
     <p>This website is a static CMS-style project where a multi-page legal document has been converted into accessible, responsive web pages.</p>
@@ -58,7 +58,6 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
 
   <section class="mt-5 text-center">
     <button id="lawBtn" class="btn btn-warning">Quote Me Some Law</button>
-  </section>
   </section>
 
 <!-- Main Section: Sidebar + Content -->
@@ -263,6 +262,7 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
       });
     });
   </script>
+  </main>
 
 <footer class="bg-light text-center py-3 mt-5">
   <p>&copy; 2025 | Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> & 💻</p>
