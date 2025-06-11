@@ -29,7 +29,7 @@ title: Introduction to Law
 </head>
 
 <body>
-<header class="bg-primary text-white p-4 text-center">
+<header class="bg-dark text-white p-4 text-center">
   <h1>📘 Meaning of Law</h1>
   <p class="lead">A 3-sub-chapter digital guide built with Jekyll + Bootstrap</p>
 </header>
@@ -45,7 +45,7 @@ title: Introduction to Law
     <ul class="list-group list-group-flush">
       <li class="list-group-item"><a href="chapter1.html">Chapter 1.1: Meaning and Definition of Law</a></li>
       <li class="list-group-item"><a href="chapter2.html">Chapter 1.2: Classification of Law</a></li>
-      <li class="list-group-item"><a href="chapter3.html">Chapter 1.3: Sources of Law</a></li>\
+      <li class="list-group-item"><a href="chapter3.html">Chapter 1.3: Sources of Law</a></li>
     </ul>
   </section>
 
