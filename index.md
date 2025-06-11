@@ -15,11 +15,6 @@ title: Introduction to Law
     margin-top: 2rem;
   }
 </style>
-<script>
-  document.getElementById("ch1").addEventListener("click", function() {
-    window.location.href = "chapter1.html";
-  });
-</script>
 <script defer>
   document.addEventListener('DOMContentLoaded', function () {
     const btn = document.getElementById('lawBtn');
@@ -60,7 +55,7 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
     </p>
   </section>
 
-  <section id="ch1" class="mt-10 text-center">
+  <section id="ch1" class="mt-10 text-center" ahref="chapter1.html">
     <button class="btn btn-lg btn-success">Start Reading</button>
   </section>
 
