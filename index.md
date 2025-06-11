@@ -41,6 +41,22 @@ title: Introduction to Law
   </section>
 
   <section>
+    <h2>Meaning of Law</h2>
+    <p>Have you ever felt the necessity of ‘Law’ in your day to day life? Have you seen any one being booked by the Traffic Police for Violating traffic rules? Do you feel the necessity of a birth certificate when a child is born? After death, do you know the importance of a death certificate? In fact, Law affects all aspects of our life. It rules us from cradle to grave. It protects us right from the mother’s womb to our education, service, marriage and other important events of life. Law plays an important role in our daily life, right from buying a newspaper or a bottle of milk or any other big or small item necessary for our life. Law is so important for our life that it becomes necessary to understand various aspects of law viz. What are the sources of Law, what are the kinds of Law and finally its application for the best use of our society.</p>
+    <h3>Objectives</h3>
+    <p>
+      After studying this lesson, you will be able to:
+      <ul>
+        <li>understand and define the term ‘Law’;</li>
+        <li>make a broad classification of ‘Law’;</li>
+        <li>identify the various sources of ‘Law’; and</li>
+        <li>appreciate the role of Indian Legal System, Judiciary, legal professionals and
+Civil Society in the enforcement of Law and administration of Justice.</li>
+      </ul>
+    </p>
+  </section>
+
+  <section>
     <h2>Browse Chapters</h2>
     <ul class="list-group list-group-flush">
       <li class="list-group-item"><a href="chapter1.html">Chapter 1.1: Meaning and Definition of Law</a></li>
