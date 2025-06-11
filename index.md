@@ -30,7 +30,7 @@ title: Introduction to Law
 <body>
 <header class="bg-dark text-white p-4 text-center">
   <h1>📘 Meaning of Law</h1>
-  <p class="lead">A 3-sub-chapter digital guide built with Jekyll + Bootstrap</p>
+  <p class="lead">A 3-sub-chapter digital guide built with Bootstrap</p>
 </header>
 
 <main class="container my-5">
@@ -205,13 +205,12 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
 
         <article id="section3" class="d-none">
           <h2>1.3 Sources of Law</h2>
-          <h3>Sources of Law</h3>
 <p>For a complete understanding of the concept of Law it is necessary to understand the sources of law. Source, literally means a point, from which anything emerges, rises or emanates. The expression ‘source of law’, therefore, means the source from where rules of human conduct came into existence and derive legal force of binding character. Broadly, sources of law can be divided as follows:</p>
 
-<h4>1. Custom</h4>
+<h3>1. Custom</h3>
 <p>‘Custom’ is the oldest and most important source of Law. ‘Custom’ is an embodiment of those principles which have commended themselves to the natural conscience as principles of justice and public utility. ‘Customs’ originate in frequent repetition of the same act, and therefore, denotes rules of habitual conduct within a community. Uniformity of conduct in like circumstances is, thus, the hallmark of the ‘Custom’.</p>
 
-<h5>Essentials of a Custom</h5>
+<h4>Essentials of a Custom</h4>
 <p>To be valid source of Law, a customary practice must fulfil some requirements, of which following are the most important:</p>
 <ul>
   <li><strong>Antiquity:</strong> A ‘Custom’ to be recognized as a law must be proved to be in existence from time immemorial or from long time period.</li>
@@ -223,14 +222,14 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
   <li><strong>Conformity with Statutory Law and Public Policy:</strong> A ‘Custom’ should be in conformity with a Statute Law and public policy.</li>
 </ul>
 
-<h4>2. Judicial Precedent</h4>
+<h3>2. Judicial Precedent</h3>
 <p>‘Precedent’ signifies a set pattern upon which future conduct may be based. It may be an earlier event, decision or action followed in parallel circumstances later. A ‘Judicial Precedent’ is an independent source of Law. ‘Stare Decisis’ is a Latin word which denotes ‘to stand by past decision or precedents and not to disturb the settled points’. Precedent or stare decisis denote employment of past judicial decisions as a guide for making of future ones for lower courts in hierarchy.</p>
 
 <p>A ‘Judicial Precedent’ or ‘stare decisis’ has a binding force for the subsequent cases. It is not the whole judgment that is to be binding. In other words, every statement made by the judge in an earlier decision is not binding in future case. Only those statements in an earlier decision which may be said to constitute the reason for the decision or ‘<em>ratio decidendi</em>’ of that case are binding as matter of general principle, in subsequent cases. ‘<em>Ratio decidendi</em>’ is the general principle which is deduced in a case. It is the rule of law upon which the decision is founded and it is authoritative in nature.</p>
 
 <p>Apart from ‘<em>ratio decidendi</em>’, a judgment may contain observations not precisely relevant to the issue before the Court. These may be the observations upon the broader aspects of law or answer to the hypothetical questions raised by judges or counsels in the course of hearing. Such observations are ‘<em>obiter dicta</em>’ and without any binding authority, in so far as these are not essential to the decision reached.</p>
 
-<h4>3. Legislation</h4>
+<h3>3. Legislation</h3>
 <p>‘Legislation’ is a deliberate process of legal evolution which consists in the formulation of norms of human conduct in a set form through a prescribed procedure by agencies designated by the Constitution. ‘Legislation’ means to make rules for human conduct.</p>
 
 <p>The term ‘Legislation’ is derived from the word ‘<em>legis</em>’ meaning ‘law’ and ‘<em>latum</em>’ which means to make or set. Thus, the word ‘legislation’ means making of law. It is a source of Law which consists in declaration of legal rules by competent authority. ‘Legislation’ includes every expression of the will of the legislature, whether making law or not.</p>
