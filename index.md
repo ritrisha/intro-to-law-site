@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 title: Introduction to Law
 ---
 
@@ -27,6 +27,7 @@ title: Introduction to Law
   });
 </script>
 </head>
+
 <body>
 <header class="bg-primary text-white p-4 text-center">
   <h1>📘 Meaning of Law</h1>
