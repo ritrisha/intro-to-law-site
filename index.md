@@ -4,6 +4,7 @@ title: Introduction to Law
 ---
 
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -58,13 +59,13 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
   <section class="mt-5 text-center">
     <button id="lawBtn" class="btn btn-warning">Quote Me Some Law</button>
   </section>
-  </main>
+  </section>
 
 <!-- Main Section: Sidebar + Content -->
-  <main class="container-fluid">
+  <section class="container-fluid">
     <div class="row flex-nowrap">
       <!-- Sidebar -->
-      <nav class="col-md-3 col-12 bg-light p-3 border-end">
+      <nav class="col-12 col-md-3 bg-light p-3 border-end mb-3 mb-md-0">
         <h5 class="fw-bold">Subchapters</h5>
         <ul class="nav flex-column">
           <li class="nav-item">
@@ -99,7 +100,8 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
           <p>Therefore, Law can be defined firstly - by its basis in nature, reason, religion or ethics, secondly - by its sources like customs, precedent and legislation, thirdly – 
             by its effect on the life of the society, fourthly – by the method of its formal expression or authoritative application, fifthly – by the ends that it seeks to achieve.</p>
           <p>Although, there is no general definition of Law which includes all the aspects of Law yet for a general understanding, some of the important definitions are as follows:</p>
-          <table>
+          <div class="table-responsive">
+<table>
             <tr>
               <th><strong>Jurist</strong></th>
               <th><strong>Definition / View on Law</strong></th>
@@ -146,6 +148,7 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
                 the minimum of friction and waste.</td>
             </tr>
           </table>
+</div>
         </article>
 
         <article id="section2" class="d-none">
@@ -238,7 +241,7 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
         
       </section>
     </div>
-  </main>
+  </section>
 
   <!-- Bootstrap + JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -265,4 +268,3 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
   <p>&copy; 2025 | Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> & 💻</p>
 </footer>
 </body>
-
