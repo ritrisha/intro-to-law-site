@@ -25,6 +25,9 @@ title: Introduction to Law
       });
     }
   });
+  document.getElementById("ch1").addEventListener("click", function() {
+    window.location.href = "chapter1.html";
+  });
 </script>
 </head>
 
@@ -56,10 +59,8 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
     </p>
   </section>
 
-  <section>
-   <h2>
-     <button class="btn btn-success">Start Reading</button>
-   </h2>
+  <section id="ch1" class="mt-10 text-center">
+    <button class="btn btn-lg btn-success">Start Reading</button>
   </section>
 
   <section class="mt-5 text-center">
