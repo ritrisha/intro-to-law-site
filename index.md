@@ -150,6 +150,9 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
 
         <article id="section2" class="d-none">
           <h2>1.2 Classifications of Law</h2>
+          <p>
+          For a proper and logical understanding of Law, its classification becomes necessary. It helps in understanding the principles and logical structure of the legal order. It makes clear the inter-relation of rules and their effect on each other and it also helps in arranging the rules in a concise and systematic way. <br/>
+The broad classification of law may be as follows: <p>
           <h3>1. International Law</h3>
 <p>International Law is a branch of law which consists of rules which regulate relations between States or Nations inter se. In other words, International Law is a body of customary and conventional rules which are considered to be legally binding by civilized Nations in their intercourse with each other. International Law is mainly based on Treaties between civilized Nations.</p>
 
