@@ -3,7 +3,7 @@ layout: default
 title: Introduction to Law
 ---
 
-<!-- Load Bootstrap 5 via CDN -->
+<head>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -26,7 +26,8 @@ title: Introduction to Law
     }
   });
 </script>
-
+</head>
+<body>
 <header class="bg-primary text-white p-4 text-center">
   <h1>📘 Meaning of Law</h1>
   <p class="lead">A 3-sub-chapter digital guide built with Jekyll + Bootstrap</p>
@@ -55,4 +56,5 @@ title: Introduction to Law
 <footer class="bg-light text-center py-3 mt-5">
   <p>&copy; 2025 | Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> & 💻</p>
 </footer>
+</body>
 
