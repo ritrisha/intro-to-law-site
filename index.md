@@ -57,16 +57,13 @@ Civil Society in the enforcement of Law and administration of Justice.</li>
   </section>
 
   <section>
-    <h2>Browse Chapters</h2>
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item"><a href="chapter1.html">Chapter 1.1: Meaning and Definition of Law</a></li>
-      <li class="list-group-item"><a href="chapter2.html">Chapter 1.2: Classification of Law</a></li>
-      <li class="list-group-item"><a href="chapter3.html">Chapter 1.3: Sources of Law</a></li>
-    </ul>
+   <h2>
+     <button class="btn btn-success">Start Reading</button>
+   </h2>
   </section>
 
   <section class="mt-5 text-center">
-    <button id="lawBtn" class="btn btn-success">Quote Me Some Law</button>
+    <button id="lawBtn" class="btn btn-warning">Quote Me Some Law</button>
   </section>
 </main>
 
