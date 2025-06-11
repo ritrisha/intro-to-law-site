@@ -15,7 +15,11 @@ title: Introduction to Law
     margin-top: 2rem;
   }
 </style>
-
+<script>
+  document.getElementById("ch1").addEventListener("click", function() {
+    window.location.href = "chapter1.html";
+  });
+</script>
 <script defer>
   document.addEventListener('DOMContentLoaded', function () {
     const btn = document.getElementById('lawBtn');
@@ -24,9 +28,6 @@ title: Introduction to Law
         alert('Law is reason free from passion — Aristotle');
       });
     }
-  });
-  document.getElementById("ch1").addEventListener("click", function() {
-    window.location.href = "chapter1.html";
   });
 </script>
 </head>
